@@ -6,9 +6,7 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janainanogueira464@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janaina-nogueira-926368181/)
 
-
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JanainaNogueira&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanainaNogueira&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 
